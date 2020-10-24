@@ -1,6 +1,6 @@
 title: Baslik
 iconURL: assets/default-icon.png
-theme: jekyll-theme-leaf
+theme: deneme
 
 # for a clean URL
 permalink: :slug
