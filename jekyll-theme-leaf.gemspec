@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-leaf"
   spec.version       = "0.1.0"
   spec.authors       = ["Supun Kavinda"]
-  spec.email         = ["supunkavinda1125@gmail.com"]
+  spec.email         = ["yakup.altunay@gmail.com"]
 
   spec.summary       = "Minimal yet beautiful Jekyll theme for dark background lovers."
   spec.homepage      = "https://github.com/myakupa/yakupa"
