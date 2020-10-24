@@ -1,5 +1,5 @@
 ---
-title: About
+title: Hakkında
 layout: page
 ---
 
